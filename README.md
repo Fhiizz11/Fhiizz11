@@ -13,6 +13,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://saweria.co/Fhiizz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://saweria.co/Fhiizz" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fhiizz11&show_icons=true&locale=en" alt="fhiizz11" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fhiizz11&show_icons=true&locale=en&layout=compact" alt="fhiizz11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fhiizz11&" alt="fhiizz11" /></p>
